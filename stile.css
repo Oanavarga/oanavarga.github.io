@@ -1,0 +1,16 @@
+body {
+    background-color: deeppink;
+}
+
+h1{
+    color: #143267;
+    line-height: normal;
+}
+
+h2{
+    color: red;
+}
+
+p{
+    line-height: 20px;
+}
