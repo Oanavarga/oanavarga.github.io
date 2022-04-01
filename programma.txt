@@ -1,0 +1,12 @@
+caio a tutti
+oggi LAVORO :)
+
+come stai tu?
+
+ciaooo
+CLONE --> apro la cartella da github per lavorarci sopr
+lavoro...
+COMMIT--> lo scrivo quando finisco di lavorare con il messaggio di cosa ho fatto
+PUSH -->trasferisco modifiche
+altri lavorano sulla stessa cartella
+PULL--> riprendo la cartella con le modifice già salvate e fatte da altri
