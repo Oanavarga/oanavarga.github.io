@@ -3,7 +3,7 @@
 Questo è un sito dove raccolgo tutti i miei progetti, nonchè il mio portfolio.
 
 ### Le tecnologie che ho usato sono:
-- xxx
+- xxxx
 
 ### Ringrazio per le librerie:
-- yyy
+- yyyy
